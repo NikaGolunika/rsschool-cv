@@ -2,13 +2,13 @@
 
 ![](_image/1.jpg)
 
-### *contact*
+## **Contact**
 
 + *Novorossiysk Russian*
 + *+7 999 639 67 55*
 + *m.nika.golubeva@gmail.com*
-+ *[telegram:]*(https://t.me/Nika_Golunika)
-+ *[GitHub:]*(https://github.com/NikaGolunika)
++ [*telegram:*](https://t.me/Nika_Golunika)
++ [*GitHub:*](https://github.com/NikaGolunika)
 
 ## **About me**
 I am taking a free JavaScript/Front-end course from The Rolling Scopes community. I want to gain knowledge and experience.
