@@ -1,6 +1,6 @@
 # **VIKTORIYA GOLUBEVA**  
 
-![](1.jpg =100x100)
+![](_image/1.jpg)
 
 ### *contact*
 
