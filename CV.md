@@ -26,6 +26,7 @@ I am taking a free JavaScript/Front-end course from The Rolling Scopes community
     function showMessage() {
     alert( 'Hello, world!' );
     }
+    ```
 
 
 ## **Experience**
