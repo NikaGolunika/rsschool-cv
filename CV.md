@@ -29,12 +29,13 @@ I am taking a free JavaScript/Front-end course from The Rolling Scopes community
 ```
 
 ## **Experience**
+My previous experience has nothing to do with the computer sphere. This is new to me.
 
 ## **Education**
 Currently I am engaged in self-development and education. I am taking various traning programs, including this course.
 
 ## **My projects**
-(https://github.com/NikaGolunika/rsschool-cv/blob/gh-pages/CV.md)
+https://github.com/NikaGolunika/rsschool-cv/blob/gh-pages/CV.md
 
 ## **English**
 **A1** (I continue to work on learning the langeage together with taking courses)
