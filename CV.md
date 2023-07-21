@@ -38,4 +38,4 @@ Currently I am engaged in self-development and education. I am taking various tr
 https://github.com/NikaGolunika/rsschool-cv/blob/gh-pages/CV.md
 
 ## **English**
-**A1** (I continue to work on learning the langeage together with taking courses)
+**A1** (I continue to work on learning the language together with taking courses)
